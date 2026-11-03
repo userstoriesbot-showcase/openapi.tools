@@ -1,0 +1,62 @@
+{
+  "https://apisyouwonthate.com/blog/securing-apis-with-spectral-owasp-ruleset/": {
+    "result": {
+      "ogTitle": "Securing APIs with the Spectral OWASP Ruleset",
+      "ogDescription": "Recently I've been on a run of making new all powerful Spectral rulesets, but so far it's been focused on the concept of automating style guides, with the concrete example of the APIs You Won't Hate: API Style Guide showing how it can be done with NPM",
+      "ogType": "article",
+      "ogUrl": "https://apisyouwonthate.com/blog/securing-apis-with-spectral-owasp-ruleset/",
+      "ogSiteName": "APIs You Won't Hate",
+      "ogLocale": "en",
+      "twitterTitle": "Securing APIs with the Spectral OWASP Ruleset",
+      "twitterDescription": "Recently I've been on a run of making new all powerful Spectral rulesets, but so far it's been focused on the concept of automating style guides, with the concrete example of the APIs You Won't Hate: API Style Guide showing how it can be done with NPM",
+      "requestUrl": "https://apisyouwonthate.com/blog/securing-apis-with-spectral-owasp-ruleset/",
+      "success": true
+    },
+    "fetchedAt": "2026-11-03T19:41:28.645Z"
+  },
+  "https://apisyouwonthate.com/blog/top-5-best-api-docs-tools/": {
+    "result": {
+      "ogTitle": "The 5 Best API Docs Tools in 2025",
+      "ogDescription": "Which API documentation tool is the best? It Depends™! Let's go through the best modern tooling and look at when you might want to pick one over another.",
+      "ogType": "article",
+      "ogUrl": "https://apisyouwonthate.com/blog/top-5-best-api-docs-tools/",
+      "ogSiteName": "APIs You Won't Hate",
+      "ogLocale": "en",
+      "twitterTitle": "The 5 Best API Docs Tools in 2025",
+      "twitterDescription": "Which API documentation tool is the best? It Depends™! Let's go through the best modern tooling and look at when you might want to pick one over another.",
+      "requestUrl": "https://apisyouwonthate.com/blog/top-5-best-api-docs-tools/",
+      "success": true
+    },
+    "fetchedAt": "2026-11-03T19:41:28.706Z"
+  },
+  "https://apisyouwonthate.com/blog/use-openapi-overlays-today/": {
+    "result": {
+      "ogTitle": "Use OpenAPI Overlays Today",
+      "ogDescription": "Overlays are a way to \"patch\" an OpenAPI document, by pointing to a specific part of it with a JSONPath, then using \"actions\" to update or remove parts of the document. Can this help you?",
+      "ogType": "article",
+      "ogUrl": "https://apisyouwonthate.com/blog/use-openapi-overlays-today/",
+      "ogSiteName": "APIs You Won't Hate",
+      "ogLocale": "en",
+      "twitterTitle": "Use OpenAPI Overlays Today",
+      "twitterDescription": "Overlays are a way to \"patch\" an OpenAPI document, by pointing to a specific part of it with a JSONPath, then using \"actions\" to update or remove parts of the document. Can this help you?",
+      "requestUrl": "https://apisyouwonthate.com/blog/use-openapi-overlays-today/",
+      "success": true
+    },
+    "fetchedAt": "2026-11-03T19:41:28.765Z"
+  },
+  "https://apisyouwonthate.com/blog/jsonpath-and-openapi/": {
+    "result": {
+      "ogTitle": "How to use JSONPath with OpenAPI",
+      "ogDescription": "JSONPath is a query language that can be used to extract data from JSON documents, and it's becoming increasingly useful in the OpenAPI ecosystem.",
+      "ogType": "article",
+      "ogUrl": "https://docs.bump.sh/guides/openapi/jsonpath/",
+      "ogSiteName": "APIs You Won't Hate",
+      "ogLocale": "en",
+      "twitterTitle": "How to use JSONPath with OpenAPI",
+      "twitterDescription": "JSONPath is a query language that can be used to extract data from JSON documents, and it's becoming increasingly useful in the OpenAPI ecosystem.",
+      "requestUrl": "https://apisyouwonthate.com/blog/jsonpath-and-openapi/",
+      "success": true
+    },
+    "fetchedAt": "2026-11-03T19:41:28.827Z"
+  }
+}

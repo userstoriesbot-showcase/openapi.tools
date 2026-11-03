@@ -1,0 +1,15 @@
+# Showcase fork only (never part of an upstream pull request).
+version: 1
+app:
+  install: "corepack enable && pnpm install --frozen-lockfile"
+  start: env -u CLAUDECODE -u AI_AGENT -u AGENT pnpm dev --host 0.0.0.0 --port {port}
+  url: http://localhost:{port}
+  readyPath: /tools/bump-sh
+  readyStatus: 200
+  runtime: node24
+  env:
+    NODE_ENV: development
+    NETLIFY_DEV: "true"
+demo:
+  maxVideos: 1
+  beforePass: true
